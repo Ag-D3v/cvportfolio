@@ -15,4 +15,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\infrastructure\cvportfolio.persona.infrastructure.csproj" />
+    <ProjectReference Include="..\application\cvportfolio.persona.application.csproj" />
+  </ItemGroup>
+
 </Project>
