@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/user/cvportfolio/src/persona/userinterface/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = c3JjL3BlcnNvbmEvdXNlcmludGVyZmFjZS9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/user/cvportfolio/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-csecdas3lr
@@ -53,3 +57,7 @@ build_metadata.AdditionalFiles.CssScope = b-csecdas3lr
 [/home/user/cvportfolio/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-idkj91n0q9
+
+[/home/user/cvportfolio/src/persona/userinterface/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = c3JjL3BlcnNvbmEvdXNlcmludGVyZmFjZS9Db21wb25lbnQxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-x9kxcxll56
