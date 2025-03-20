@@ -54,3 +54,5 @@
 /home/user/cvportfolio/bin/Debug/net8.0/src/persona/infrastructure/obj/cvportfolio.persona.infrastructure.csproj.nuget.dgspec.json
 /home/user/cvportfolio/bin/Debug/net8.0/src/persona/infrastructure/obj/project.assets.json
 /home/user/cvportfolio/obj/Debug/net8.0/scopedcss/src/persona/userinterface/Component1.razor.rz.scp.css
+/home/user/cvportfolio/bin/Debug/net8.0/src/persona/userinterface/obj/cvportfolio.persona.userinterface.csproj.nuget.dgspec.json
+/home/user/cvportfolio/bin/Debug/net8.0/src/persona/userinterface/obj/project.assets.json
