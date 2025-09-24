@@ -187,7 +187,18 @@
             left: 0;
             font-weight: bold;
         }
-        
+          /* Badge para Angular */
+        .angular-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #dd0031, #c3002f);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 5px;
+            vertical-align: middle;
+        }
         /* Responsive */
         @media (max-width: 768px) {
             .header {
@@ -250,7 +261,7 @@
                         <div class="company">Construcciones Aryve</div>
                         <div class="position">Desarrollador Full Stack, Analista de Base de Datos</div>
                         <ul class="skill-list">
-                            <li>Desarrollo de aplicaciones web con Angular 7 y AngularJS</li>
+                            <li>Desarrollo de aplicaciones web con Angular ( versiones del 7 al 20 ) y AngularJS</li>
                             <li>Implementación de APIs con .NET Framework 4.6/4.8 y .NET Core 3.1, 6, 8</li>
                             <li>Gestión y optimización de bases de datos SQL Server, PostgreSQL y MySQL</li>
                             <li>Despliegue continuo en Google Cloud Platform (App Engine, Cloud Run)</li>
@@ -295,7 +306,8 @@
                         <div class="skill-category">
                             <h4>Frontend</h4>
                             <ul class="skill-list">
-                                <li>Angular 7 / AngularJS</li>
+                              <li>Angular <span class="angular-badge">7 a 20</span></li>
+                                <li>AngularJS (legacy)</li>
                                 <li>TypeScript</li>
                                 <li>React</li>
                                 <li>JavaScript</li>
